@@ -1,0 +1,296 @@
+[
+    {
+        "age": 45,
+        "name": "Alice Smith",
+        "diagnosis": "Pneumonia",
+        "chief_complaint": "Fever and cough",
+        "history_of_present_illness": "Alice, a 45-year-old female, presents with a 3-day history of fever, cough, and shortness of breath. She reports a productive cough with greenish sputum and mild chest pain, which worsens with deep breathing. There is no history of recent travel or contact with sick individuals. Her symptoms started after an upper respiratory tract infection 5 days ago. She has a past medical history of hypertension, managed on medication.",
+        "past_medical_history": "Hypertension",
+        "past_surgical_history": "Appendectomy",
+        "admission_datetime": "2025-04-22 09:00",
+        "vital_signs_history": [
+            {
+                "datetime": "2025-04-22 09:10",
+                "BP": "130/85",
+                "HR": 88,
+                "Temp": "38.5\u00b0C"
+            },
+            {
+                "datetime": "2025-04-22 12:15",
+                "BP": "132/86",
+                "HR": 90,
+                "Temp": "38.7\u00b0C"
+            }
+        ],
+        "ward_round_notes": [
+            "Day 1: Started IV antibiotics",
+            "Day 2: Symptoms improving"
+        ],
+        "invx": [
+            "Chest X-Ray",
+            "CBC"
+        ]
+    },
+    {
+        "age": 60,
+        "name": "Bob Johnson",
+        "diagnosis": "UTI",
+        "chief_complaint": "Dysuria",
+        "history_of_present_illness": "Bob, a 60-year-old male with a known history of diabetes, presents with a 2-day history of dysuria, frequency, and urgency. He denies any hematuria but reports mild suprapubic discomfort. He mentions no history of fever or back pain. His diabetes is poorly controlled, and he has had multiple urinary tract infections in the past. His current symptoms are similar to previous UTI episodes.",
+        "past_medical_history": "Diabetes",
+        "past_surgical_history": "None",
+        "admission_datetime": "2025-04-21 14:30",
+        "vital_signs_history": [
+            {
+                "datetime": "2025-04-21 14:45",
+                "BP": "125/80",
+                "HR": 78,
+                "Temp": "37.8\u00b0C"
+            },
+            {
+                "datetime": "2025-04-21 18:00",
+                "BP": "127/82",
+                "HR": 80,
+                "Temp": "37.6\u00b0C"
+            }
+        ],
+        "ward_round_notes": [
+            "Day 1: Urine sent for culture",
+            "Day 2: On oral antibiotics"
+        ],
+        "invx": [
+            "Urinalysis",
+            "Urine culture"
+        ]
+    },
+    {
+        "age": 30,
+        "name": "Carol Lee",
+        "diagnosis": "Asthma exacerbation",
+        "chief_complaint": "Shortness of breath",
+        "history_of_present_illness": "Carol, a 30-year-old female, presents with a 2-day history of increased wheezing, shortness of breath, and cough. She has a history of asthma, but her symptoms have worsened over the past 48 hours, with frequent nocturnal symptoms and difficulty in speaking full sentences. She has not used her inhaler as prescribed recently. She denies fever, chest pain, or recent respiratory infections.",
+        "past_medical_history": "Asthma",
+        "past_surgical_history": "Tonsillectomy",
+        "admission_datetime": "2025-04-20 17:00",
+        "vital_signs_history": [
+            {
+                "datetime": "2025-04-20 17:10",
+                "BP": "115/75",
+                "HR": 95,
+                "O2 Sat": "89%"
+            },
+            {
+                "datetime": "2025-04-20 20:20",
+                "BP": "116/76",
+                "HR": 92,
+                "O2 Sat": "90%"
+            }
+        ],
+        "ward_round_notes": [
+            "Day 1: Nebulizer given",
+            "Day 2: Better oxygenation"
+        ],
+        "invx": [
+            "Peak flow",
+            "CXR"
+        ]
+    },
+    {
+        "age": 28,
+        "name": "David Park",
+        "diagnosis": "Migraine",
+        "chief_complaint": "Headache",
+        "history_of_present_illness": "David, a 28-year-old male, reports a 2-day history of a severe, throbbing headache. The pain is located on the right side of his head and is associated with nausea, photophobia, and phonophobia. He denies any aura or visual disturbances. His headache started after a stressful day at work and has worsened despite using over-the-counter analgesics. He has a history of episodic migraines, but this episode is more intense than usual.",
+        "past_medical_history": "None",
+        "past_surgical_history": "None",
+        "admission_datetime": "2025-04-19 10:45",
+        "vital_signs_history": [
+            {
+                "datetime": "2025-04-19 11:00",
+                "BP": "122/80",
+                "HR": 72,
+                "Temp": "36.8\u00b0C"
+            },
+            {
+                "datetime": "2025-04-19 14:30",
+                "BP": "123/81",
+                "HR": 70,
+                "Temp": "36.7\u00b0C"
+            }
+        ],
+        "ward_round_notes": [
+            "Day 1: Given analgesia",
+            "Day 2: Pain subsided"
+        ],
+        "invx": [
+            "CT brain"
+        ]
+    },
+    {
+        "age": 22,
+        "name": "Ella Kim",
+        "diagnosis": "Dengue",
+        "chief_complaint": "High fever and rash",
+        "history_of_present_illness": "Ella, a 22-year-old female, presents with a 4-day history of high fever, retro-orbital pain, and a rash that began on her face and spread to her trunk and extremities. The rash is maculopapular and blanching. She denies joint pain but reports fatigue and mild abdominal discomfort. She recently traveled to a dengue-endemic area, and there is a family history of dengue.",
+        "past_medical_history": "None",
+        "past_surgical_history": "None",
+        "admission_datetime": "2025-04-18 08:20",
+        "vital_signs_history": [
+            {
+                "datetime": "2025-04-18 08:30",
+                "BP": "110/70",
+                "HR": 100,
+                "Temp": "39.0\u00b0C"
+            },
+            {
+                "datetime": "2025-04-18 12:00",
+                "BP": "112/72",
+                "HR": 102,
+                "Temp": "39.2\u00b0C"
+            }
+        ],
+        "ward_round_notes": [
+            "Day 1: Hydration started",
+            "Day 2: Platelets dropped"
+        ],
+        "invx": [
+            "CBC",
+            "NS1 antigen"
+        ]
+    },
+    {
+        "age": 55,
+        "name": "Frank Zhao",
+        "diagnosis": "Hypertensive crisis",
+        "chief_complaint": "Severe headache",
+        "history_of_present_illness": "Frank, a 55-year-old male with poorly controlled hypertension, presents with a sudden onset of severe headache, dizziness, and blurred vision. The headache is described as a pressure-like pain, located at the back of his head. He reports nausea but denies vomiting. He has not been adhering to his antihypertensive medications and has a history of non-compliance. His blood pressure at home was 190/120 mmHg earlier this morning.",
+        "past_medical_history": "Hypertension",
+        "past_surgical_history": "CABG",
+        "admission_datetime": "2025-04-17 16:30",
+        "vital_signs_history": [
+            {
+                "datetime": "2025-04-17 16:40",
+                "BP": "180/110",
+                "HR": 82,
+                "Temp": "36.7\u00b0C"
+            },
+            {
+                "datetime": "2025-04-17 19:00",
+                "BP": "175/105",
+                "HR": 80,
+                "Temp": "36.8\u00b0C"
+            }
+        ],
+        "ward_round_notes": [
+            "Day 1: BP meds adjusted",
+            "Day 2: Monitoring BP closely"
+        ],
+        "invx": [
+            "ECG",
+            "Renal function tests"
+        ]
+    },
+    {
+        "age": 35,
+        "name": "Grace Lin",
+        "diagnosis": "Gastritis",
+        "chief_complaint": "Epigastric pain",
+        "history_of_present_illness": "Grace, a 35-year-old female, presents with a 3-week history of intermittent epigastric pain, which is aggravated by eating and relieved by antacids. She denies any nausea, vomiting, or weight loss but reports bloating and early satiety. She has a history of stress and poor dietary habits, including excessive caffeine intake. She has no history of similar symptoms before.",
+        "past_medical_history": "None",
+        "past_surgical_history": "None",
+        "admission_datetime": "2025-04-16 11:00",
+        "vital_signs_history": [
+            {
+                "datetime": "2025-04-16 11:15",
+                "BP": "118/76",
+                "HR": 74,
+                "Temp": "37.2\u00b0C"
+            },
+            {
+                "datetime": "2025-04-16 14:30",
+                "BP": "119/77",
+                "HR": 72,
+                "Temp": "37.1\u00b0C"
+            }
+        ],
+        "ward_round_notes": [
+            "Day 1: Started PPIs",
+            "Day 2: Pain relief noted"
+        ],
+        "invx": [
+            "Endoscopy",
+            "Urea breath test"
+        ]
+    },
+    {
+        "age": 50,
+        "name": "Henry O'Neil",
+        "diagnosis": "Cellulitis",
+        "chief_complaint": "Swollen red leg",
+        "history_of_present_illness": "Henry, a 50-year-old male, presents with a 4-day history of a swollen, red, and painful right lower leg. The swelling started around his ankle and has spread up to his calf. He reports fever and chills, but no history of trauma or insect bites. He has a history of diabetes and peripheral vascular disease, which may predispose him to infections.",
+        "past_medical_history": "Diabetes, Peripheral Vascular Disease",
+        "past_surgical_history": "None",
+        "admission_datetime": "2025-04-15 13:30",
+        "vital_signs_history": [
+            {
+                "datetime": "2025-04-15 13:40",
+                "BP": "135/85",
+                "HR": 98,
+                "Temp": "38.3\u00b0C"
+            },
+            {
+                "datetime": "2025-04-15 17:00",
+                "BP": "137/86",
+                "HR": 100,
+                "Temp": "38.5\u00b0C"
+            }
+        ],
+        "ward_round_notes": [
+            "Day 1: IV antibiotics started",
+            "Day 2: Redness decreased",
+            "Day 3: DC Plan"
+        ],
+        "invx": [
+            "Blood culture",
+            "Ultrasound of leg"
+        ]
+    },
+    {
+        "age": 70,
+        "name": "Isabella Martin",
+        "diagnosis": "Fracture of femur",
+        "chief_complaint": "Pain after fall",
+        "history_of_present_illness": "Isabella, a 70-year-old female, presents with a history of a fall at home yesterday, resulting in severe pain in her left hip. She was unable to bear weight on the affected leg and presents with an obvious deformity and swelling of the left hip. She has a history of osteoporosis and is on calcium and vitamin D supplementation. Her last bone density scan showed osteopenia.",
+        "past_medical_history": "Osteoporosis",
+        "past_surgical_history": "Hip replacement (right side)",
+        "admission_datetime": "2025-04-14 09:00",
+        "vital_signs_history": [
+            {
+                "datetime": "2025-04-14 09:10",
+                "BP": "130/85",
+                "HR": 70,
+                "Temp": "36.8\u00b0C"
+            },
+            {
+                "datetime": "2025-04-14 12:00",
+                "BP": "132/87",
+                "HR": 72,
+                "Temp": "37.0\u00b0C"
+            },
+            {
+                "datetime": "2025-04-22 17:54",
+                "BP": "120/80",
+                "HR": "60",
+                "Temp": "37.6 C"
+            }
+        ],
+        "ward_round_notes": [
+            "Day 1: X-ray confirmed fracture",
+            "Day 2: Surgery scheduled"
+        ],
+        "invx": [
+            "X-ray",
+            "CT scan"
+        ]
+    }
+]
